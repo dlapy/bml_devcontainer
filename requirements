@@ -1,0 +1,7 @@
+ipywidgets
+matplotlib
+pandas
+torch
+torchvision
+tqdm
+jupyter
